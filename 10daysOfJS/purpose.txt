@@ -1,0 +1,1 @@
+This is for storing code for the Hacker Rank's 10 Days of JS
