@@ -1,7 +1,7 @@
 
 /**
 This intro exercise is one of the most convoluted pieces of intro exercises
-I have ever seen. I have some experience with JavaScript experience and This
+I have ever seen. I have some experience with JavaScript and This
 is by far the most convoluted intro Hello World exercise I haev ever come across.
 
 This would daunt and might completely daunt a complete  newcomer and might
